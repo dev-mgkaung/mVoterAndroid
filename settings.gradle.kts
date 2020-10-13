@@ -1,3 +1,4 @@
+include(":rakhine:app")
 include(":data:fakenetwork")
 include(":simplespinneradapter")
 include(":coroutinetestrule")
